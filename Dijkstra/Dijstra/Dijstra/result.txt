@@ -1,0 +1,4 @@
+Shortest path from vertex 1 to vertex 2:
+1 2 
+Weight: 10
+Program was executed in 0.627889 seconds

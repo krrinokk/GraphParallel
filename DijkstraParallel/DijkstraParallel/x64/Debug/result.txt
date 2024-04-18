@@ -1,0 +1,4 @@
+Shortest path from vertex 1 to vertex 2:
+1 2 
+Weight: 10
+Duration: 1.20168 seconds

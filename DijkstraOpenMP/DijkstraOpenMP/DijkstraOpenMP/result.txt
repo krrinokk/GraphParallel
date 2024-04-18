@@ -1,0 +1,19 @@
+Shortest path from vertex 1 to vertex 2:
+1 2 
+Weight: 10
+Shortest path from vertex 1 to vertex 2:
+1 2 
+Weight: 10
+Elapsed time: 0.708825 seconds
+Shortest path from vertex 1 to vertex 4:
+1 4 
+Weight: 50
+Elapsed time: 0.708518 seconds
+Shortest path from vertex 1 to vertex 5:
+1 5 
+Weight: 10
+Elapsed time: 2.09645 seconds
+Shortest path from vertex 1 to vertex 4:
+1 4 
+Weight: 50
+Elapsed time: 1.50962 seconds

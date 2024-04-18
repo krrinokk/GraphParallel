@@ -1,0 +1,5 @@
+Distance from vertex 3 to vertex 0: INF
+Distance from vertex 3 to vertex 1: INF
+Distance from vertex 3 to vertex 2: INF
+Distance from vertex 3 to vertex 3: 0
+Distance from vertex 3 to vertex 4: INF

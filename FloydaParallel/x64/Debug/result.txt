@@ -1,0 +1,19 @@
+Initial weight matrix:
+0 10 30 50 10 
+INF 0 INF INF INF 
+INF INF 0 INF 10 
+INF 40 20 0 INF 
+10 INF 10 30 0 
+Weight matrix after Floyd-Warshall algorithm:
+0 10 20 40 10 
+INF 0 INF INF INF 
+INF INF 0 INF 10 
+INF 40 20 0 30 
+10 20 10 30 0 
+Shortest paths from vertex 2:
+No path from vertex 2 to vertex 0
+No path from vertex 2 to vertex 1
+No path from vertex 2 to vertex 3
+Path to vertex 4: 4 <- 5 <- 2
+Weight: 10
+Execution time: 1.3404 sec
